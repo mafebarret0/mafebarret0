@@ -1,4 +1,4 @@
-## Olá 👋🏼 Sou a 𝓜aria 𝓕ernanda 
+## Olá 👋🏼 Meu nome é 𝓜aria 𝓕ernanda 
 
 **`⌞Cursando Sistemas de Informação⌝`**
 
