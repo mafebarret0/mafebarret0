@@ -11,8 +11,6 @@ Me chamo Maria Fernanda Rosa Barreto, tenho 19 anos e sou natural da Bahia. Tenh
     <img width="32" height="32" alt="image" src="https://img.icons8.com/?size=100&id=85044&format=png&color=000000"/>
   </a>
 
-<br>
-
 <p align="left">
     </a> 
     <a href="https://github.com/mafebarret0?tab=repositories&sort=stargazers">
