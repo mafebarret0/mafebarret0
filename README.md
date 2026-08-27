@@ -3,7 +3,7 @@
 <h3 align="center">⌞Cursando Sistemas de Informação⌝</h3>
 
 <p align="center">
-Me chamo Maria Fernanda Rosa Barreto, tenho 19 anos e sou natural da Bahia. Tenho interesse em aprender cada vez mais sobre tecnologia e desenvolvimento. Aqui compartilho alguns projetos, estudos e experiências da minha jornada na área de TI. ✦🚀
+Me chamo Maria Fernanda Rosa Barreto, tenho 19 anos e sou natural da Bahia. Tenho interesse em aprender cada vez mais sobre tecnologia e desenvolvimento. Aqui compartilho alguns projetos, estudos e experiências da minha jornada na área de TI. ✦🚀˙ᵕ˙
 </p>
 
 <p align="right">
