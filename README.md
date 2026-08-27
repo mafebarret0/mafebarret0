@@ -6,12 +6,12 @@
 Me chamo Maria Fernanda Rosa Barreto, tenho 19 anos e sou natural da Bahia. Tenho interesse em aprender cada vez mais sobre tecnologia e desenvolvimento. Aqui compartilho alguns projetos, estudos e experiências da minha jornada na área de TI. ✦🚀
 </p>
 
-<br>
-
-<p align="left">
+<p align="right">
   <a href="https://www.linkedin.com/in/fernanda-barreto-9062a1356/">
-    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6c70f9f7-9f1e-4109-9836-ddbe73d58e54"/>
+    <img width="32" height="32" alt="image" src="https://img.icons8.com/?size=100&id=85044&format=png&color=000000"/>
   </a>
+
+<br>
 
 <p align="left">
     </a> 
