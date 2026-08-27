@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é 𝓜aria 𝓕ernanda </h1>
+<h1 align="center">˚⊱ Olá! Meu nome é 𝓜aria 𝓕ernanda ⊰˚</h1>
 
 <h3 align="center">⌞Cursando Sistemas de Informação⌝</h3>
 
