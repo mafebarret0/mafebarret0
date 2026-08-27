@@ -1,8 +1,17 @@
-## Olá 👋🏼 meu nome é 𝓜aria 𝓕ernanda 
+<h1 align="center">Olá! Meu nome é 𝓜aria 𝓕ernanda </h1>
 
-**`⌞Cursando Sistemas de Informação⌝`**
+<h3 align="center">⌞Cursando Sistemas de Informação⌝</h3>
 
+<p align="center">
 Me chamo Maria Fernanda Rosa Barreto, tenho 19 anos e sou natural da Bahia. Tenho interesse em aprender cada vez mais sobre tecnologia e desenvolvimento. Aqui compartilho alguns projetos, estudos e experiências da minha jornada na área de TI. ✦🚀
+</p>
+
+<br>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernanda-barreto-9062a1356/">
+    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6c70f9f7-9f1e-4109-9836-ddbe73d58e54"/>
+  </a>
 
 <p align="left">
     </a> 
